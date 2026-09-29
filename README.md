@@ -4,7 +4,7 @@ Coleção de exercícios e códigos de estudo em C, cobrindo fundamentos da ling
 
 ## Conteúdo atual
 
-- `sistema-bancario/` — sistema bancário simplificado, com operações básicas de conta (depósito, saque e consulta de saldo)
+- `sistema-bancario/` — sistema bancário simplificado, com operações básicas de conta
 
 ## Em construção
 
