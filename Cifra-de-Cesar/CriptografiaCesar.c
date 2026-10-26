@@ -105,6 +105,7 @@ int main()
     case 1:
         printf("Digite o valor da progressão aritmética: ");
         scanf("%d", &pa);
+        j = 0;
         // 1. Copia as posições múltiplas de pa
         for (i = 0; i < 26; i += pa) {
             alpha_pa[j] = alpha_shift[i];
